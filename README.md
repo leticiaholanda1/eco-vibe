@@ -1,12 +1,34 @@
-# React + Vite
+# 🌱 EcoVibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **EcoVibe**, um site de produtos sustentáveis para um futuro melhor! 🌍💧☀️  
 
-Currently, two official plugins are available:
+O objetivo do projeto é apresentar produtos ecológicos e informações sobre sustentabilidade de forma interativa e atrativa.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📖 Sobre o projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Desenvolvido com **React** e **React Router**.
+- Layout responsivo e moderno, utilizando animações leves.
+- Páginas principais:
+  - **Home**: Apresenta a marca, emojis interativos e informações principais.
+  - **Sobre Nós**: Texto informativo sobre a missão e valores da EcoVibe.
+  - **Contato**: Formulário interativo para contato com a empresa.
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- CSS puro para estilos e animações
+- [Vite](https://vitejs.dev/) como bundler
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/leticiaholanda1/eco-vibe.git
