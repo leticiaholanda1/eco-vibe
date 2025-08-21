@@ -34,7 +34,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Main container */
+/* Main container! */
 .app-container main {
   flex: 1;
   display: flex;
